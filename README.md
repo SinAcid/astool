@@ -1,0 +1,1 @@
+NativeAlert类是针对Adobe AIR的系统原生对话框生成工具，需依赖WebKit.dll
